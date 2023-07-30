@@ -12,5 +12,5 @@ The project draws inspiration from Craiyon website (https://www.craiyon.com/), a
 
 1. Clone this repository to your local machine.
 2. Navigate to the project's root directory.
-3. Install dependencies by running the following command in your terminal: npm install.
-4. Start the development server by running: ```npm run dev```
+3. Install dependencies by running the following command in your terminal: ```npm install```.
+4. Start the development server by running: ```npm run dev```.
